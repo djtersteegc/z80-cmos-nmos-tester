@@ -16,7 +16,7 @@ Works by loading a simple program from the EPROM/EEPROM.  Takes up to two 1/2 ca
 
 ### BOM
 
-There is an interactive BOM here.  I like using Winbond W27C512 EEPROM's in 27C512 applications since they don't require UV to erase like a traditional EPROM.
+There is an interactive BOM [here](https://github.com/djtersteegc/z80-cmos-nmos-tester/ibom.html) or [CSV](https://github.com/djtersteegc/z80-cmos-nmos-tester/z80-cmos-nmos-tester-BOM.csv).  I like using Winbond W27C512 EEPROM's in 27C512 applications since they don't require UV to erase like a traditional EPROM.
 
 ### Assembly
 
