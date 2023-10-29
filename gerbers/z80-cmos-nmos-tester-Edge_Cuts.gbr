@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
+%TF.CreationDate,2023-09-25T01:30:26-05:00*%
+%TF.ProjectId,z80-cmos-nmos-tester,7a38302d-636d-46f7-932d-6e6d6f732d74,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-09-25 01:30:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X109220000Y-59690000D02*
+X190500000Y-59690000D01*
+X190500000Y-146050000D01*
+X109220000Y-146050000D01*
+X109220000Y-59690000D01*
+M02*
