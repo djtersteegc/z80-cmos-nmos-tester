@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Z80 CMOS NMOS Tester")
+    (date "2023-9-25")
+    (rev "1.0")
+    (company "Chris Tersteeg")
+  )
+
   (lib_symbols
     (symbol "74xx:74LS02" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 1.27 0)
